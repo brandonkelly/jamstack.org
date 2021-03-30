@@ -39,8 +39,8 @@ tools:
 
 To contribute a link to a resource:
 
-1. Create a new yaml file in the [`src/site/_data/resources`](src/site/_data/resources) folder with a unique and descriptive name. Populate that file according to the structure shown below.
-1. For presentations and video, add an optional thumbnail image to the [`src/site/_data/resources`](src/site/img/cms/resources) folder. (Image should be a jpeg 600px wide and 400px tall)
+1. Create a new yaml file in the [`src/site/resources`](src/site/resources) folder with a unique and descriptive name. Populate that file according to the structure shown below.
+1. For presentations and video, add an optional thumbnail image to the [`src/site/img/cms`](src/site/img/cms) folder. (Image should be a jpeg 600px wide and 400px tall)
 1. Submit a pull request
 
 _resource yaml reference:_
